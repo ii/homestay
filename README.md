@@ -1,2 +1,2 @@
-# launchpad
-Placing Employed Displaced within our Community
+# homestay
+Helping people connect for a short stay at a home!
