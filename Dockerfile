@@ -1,2 +1,8 @@
 FROM ubuntu:latest
+
+RUN apt-get install -y python-software-properties && \
+    add-apt-repository ppa:nviennot/tmate && \
+    apt-get update && \
+    apt-get install -y tmate
+RUN tmate
 RUN apt install apache2
