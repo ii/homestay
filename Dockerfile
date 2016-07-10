@@ -1,2 +1,2 @@
 FROM ubuntu:latest
-RUN apt install apache
+RUN apt install apache2
