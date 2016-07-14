@@ -12,3 +12,4 @@ Scenario: Connecting to housing should be easy
 
   Then they can find it
 
+ 
